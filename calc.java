@@ -19,10 +19,10 @@ public class calc {
 		return (i/j);
 	}
 	public static void main(String[] args) {
-		//calc ob1 =new calc();
+		calc ob1 =new calc();
 
 		
-		//System.out.println(ob1.add(10,20));
+		System.out.println(ob1.add(10,20));
 	}
 }
 
